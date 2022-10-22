@@ -17,9 +17,45 @@ My ![Visitor Count](https://profile-counter.glitch.me/xiaozhi-6/count.svg) visit
 - ⚡ Waiting for: **The person who belongs only to me**
 
 # About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaozhi-6)](https://github.com/xiaozhi-6/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaozhi-6&show_icons=true&theme=tokyonight)
+<!-- Gif -->
+<div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
+
+<!-- just img -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+
+<div align="center" ><img src="https://raw.githubusercontent.com/xiaozhi-6/xiaozhi-6/f61fee73a2f17c9039032d5f32a45501a0093022/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaozhi-6&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+<br>
+
+ <!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=xiaozhi-6&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="157px" src="https://github-readme-stats.vercel.app/api?username=xiaozhi-6&hide_title=true&hide_border=true&show_icons=trueline_height=30&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</div>
+<br>
+
 
 # My Skill Set  
 <table><tr><td valign="top" width="33%">
