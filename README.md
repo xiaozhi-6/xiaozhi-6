@@ -18,6 +18,10 @@ My ![Visitor Count](https://profile-counter.glitch.me/xiaozhi-6/count.svg) visit
 
 # About My Github
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://raw.githubusercontent.com/xiaozhi-6/xiaozhi-6/0e4355b759bf553b15a89b711d598bf9bfc51ab4/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
