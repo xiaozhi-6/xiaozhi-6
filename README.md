@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
 
 My ![Visitor Count](https://profile-counter.glitch.me/xiaozhi-6/count.svg) visitor
 
@@ -12,9 +10,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/xiaozhi-6/count.svg) visit
 - 👯 Currently living in **Northeast, China**
 - 🤔 I love **Medical Science, photography**
 - 💬 Ask me about **MLS, Medical psychology and Image Processing**
-- <img src="https://space.bilibili.com/favicon.ico" width="20"> How to reach me: **[My BiliBili](https://space.bilibili.com/476403407)**
-- 😄 You may like [My Website](https://www.chitudexiaozhi.com/) , [My Personal Blog](https://blog.chitudexiaozhi.com/)
-- ⚡ Waiting for: **The person who belongs only to me**
 
 # About My Github
 
