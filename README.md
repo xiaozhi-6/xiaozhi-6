@@ -35,12 +35,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/xiaozhi-6/count.svg) visit
 <div align="center" ><img src="https://raw.githubusercontent.com/xiaozhi-6/xiaozhi-6/f61fee73a2f17c9039032d5f32a45501a0093022/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 <!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaozhi-6&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<br>
+<span style="color: #5BCEFA;" _mstmutation="1" _istranslated="1">tr</span><span style="color: #F5A9B8;" _mstmutation="1" _istranslated="1">an</span><span style="color: #ffffff;" _mstmutation="1" _istranslated="1">s righ</span><span style="color: #F5A9B8;" _mstmutation="1" _istranslated="1"></span><span style="color: #5BCEFA;" _mstmutation="1" _istranslated="1">ts</span>
+
 
  <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
