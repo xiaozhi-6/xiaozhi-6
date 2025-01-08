@@ -30,12 +30,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/xiaozhi-6/count.svg) visit
 </div>
 
 <!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <div align="center" ><img src="https://raw.githubusercontent.com/xiaozhi-6/xiaozhi-6/f61fee73a2f17c9039032d5f32a45501a0093022/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
-
-<!-- 连续提交代码天数记录 -->
-<span style="color: #5BCEFA;" _mstmutation="1" _istranslated="1">tr</span><span style="color: #F5A9B8;" _mstmutation="1" _istranslated="1">an</span><span style="color: #ffffff;" _mstmutation="1" _istranslated="1">s righ</span><span style="color: #F5A9B8;" _mstmutation="1" _istranslated="1"></span><span style="color: #5BCEFA;" _mstmutation="1" _istranslated="1">ts</span>
 
 
  <!-- Dynamic Quotes -->
