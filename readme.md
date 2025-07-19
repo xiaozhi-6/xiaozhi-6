@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=530&lines=Welcome+to+xiaozhi's+github+page;xiaozhi+%E3%81%AE+github+%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;Bienvenue+sur+la+page+github+de+Xiaozhi;Bienvenido+a+la+p%C3%A1gina+de+github+de+xiaozhi;%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7+%D8%A8%D9%83+%D9%81%D9%8A+%D8%B5%D9%81%D8%AD%D8%A9+%D8%AC%D9%8A%D8%AB%D8%A8+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9+%D8%A8%D9%80+xiaozhi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=530&lines=Welcome+to+xiaozhi's+github+page;xiaozhi+%E3%81%AE+github+%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D;Bienvenue+sur+la+page+github+de+Xiaozhi;Bienvenido+a+la+p%C3%A1gina+de+github+de+xiaozhi;%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7+%D8%A8%D9%83+%D9%81%D9%8A+%D8%B5%D9%81%D8%AD%D8%A9+%D8%AC%D9%8A%D8%AB%D8%A8+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9+%D8%A8%D9%80+xiaozhi)](https://git.io/typing-svg)
 
 
 # I'm Xiao Zhi <img src="https://avatars.githubusercontent.com/u/87865570" width="50">
